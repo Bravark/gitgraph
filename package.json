@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "hardhat": "^2.14.0"
+  },
+  "name": "mempoool",
+  "version": "1.0.0",
+  "main": "mempool.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+  }
+}
